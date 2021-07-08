@@ -32,7 +32,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Solution](https://github.com/jshiwam/profile-card-component-main)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/profile-using-multiple-background-images-relative-positioning-o30ELwkNz)
 - Live Site URL: [Live Site](https://www.shiwam.me/profile-card-component-main/)
 
 
