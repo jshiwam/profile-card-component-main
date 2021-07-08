@@ -32,8 +32,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Solution](#)
-- Live Site URL: [Github Pages](#)
+- Solution URL: [Solution](https://github.com/jshiwam/profile-card-component-main)
+- Live Site URL: [Live Site](https://www.shiwam.me/profile-card-component-main/)
 
 
 ### Built with
